@@ -1,0 +1,2 @@
+"venv/"    # добавляем в .gitignore (если ещё нет)
+"back/venv/" 
